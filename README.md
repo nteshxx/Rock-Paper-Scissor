@@ -16,8 +16,8 @@ To implement this, he makes use of a class Weapon, which has an int field called
 
 Further, he needs 3 more classes called Rock, Paper and Scissors, which inherit from Weapon. These classes will also need a public function bool battle(Weapon) that compares their strengths in the following way:
 
-● Rock's strength is doubled (temporarily) when fighting scissors, but halved (temporarily) when fighting against paper
-● In the same way, paper has the advantage against rock, and scissors against paper.
+* Rock's strength is doubled (temporarily) when fighting scissors, but halved (temporarily) when fighting against paper
+* In the same way, paper has the advantage against rock, and scissors against paper. 
 
 The strength field shouldn't change in the function, which returns true if the original class wins in strength and false otherwise.
 
@@ -28,14 +28,14 @@ You may use your own choice of visibility modes for the definition of the derive
 
 Here are some sample inputs along with their outputs for your reference. You may also use them to check the correctness of your program:
 
-(i) Input:
-5
-7
-24
-Output: 001
-
-(ii) Input:
-3
-4
-5
-Output: 000
+(i) Input:<br />
+5<br />
+7<br />
+24<br />
+Output: 001<br />
+<br />
+(ii) Input:<br />
+3<br />
+4<br />
+5<br />
+Output: 000<br />
