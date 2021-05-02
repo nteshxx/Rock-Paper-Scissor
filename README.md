@@ -4,11 +4,11 @@ Rohan, a student of CS101.2x, wishes to implement the game of rock, paper and sc
 
 For example, if the strengths of rock, paper and scissor are 5, 7, and 24 respectively, then:
 
-(i) When rock fights against paper, the rock’s strength is halved and the paper’s strength is doubled. So, the rock’s strength becomes 2 and the paper’s strength becomes 14. Hence, paper wins the battle between the two in this case.
+- (i) When rock fights against paper, the rock’s strength is halved and the paper’s strength is doubled. So, the rock’s strength becomes 2 and the paper’s strength becomes 14. Hence, paper wins the battle between the two in this case.
 
-(ii) When paper fights against scissor, paper’s strength is halved and the scissor’s strength is doubled. So, the paper’s strength becomes 3 and scissor's strength becomes 48. Thus, scissor wins the battle between paper and scissor.
+- (ii) When paper fights against scissor, paper’s strength is halved and the scissor’s strength is doubled. So, the paper’s strength becomes 3 and scissor's strength becomes 48. Thus, scissor wins the battle between paper and scissor.
 
-(iii) When scissor fights against rock, scissors’ strength is halved and rock’s strength is doubled. So, the scissor's strength becomes 12 and rock’s strength becomes 10.
+- (iii) When scissor fights against rock, scissors’ strength is halved and rock’s strength is doubled. So, the scissor's strength becomes 12 and rock’s strength becomes 10.
 
 Thus, scissor wins the battle between rock and scissor.
 
